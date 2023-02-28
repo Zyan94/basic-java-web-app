@@ -1,4 +1,4 @@
-<h1>Welcome to the most boring Bobcat webapp ever !</h1>
+<h1>Welcome to the coolest Bobcat, Hellcat & Tomcat webapp ever !</h1>
 
 <h2>Interesting things to do for today, Zyan Wong</h2>
 
